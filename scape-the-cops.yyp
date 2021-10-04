@@ -3,6 +3,8 @@
     {"id":{"name":"obj_cops","path":"objects/obj_cops/obj_cops.yy",},"order":0,},
     {"id":{"name":"spr_cops","path":"sprites/spr_cops/spr_cops.yy",},"order":1,},
     {"id":{"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},"order":0,},
+    {"id":{"name":"spr_others","path":"sprites/spr_others/spr_others.yy",},"order":2,},
+    {"id":{"name":"obj_others","path":"objects/obj_others/obj_others.yy",},"order":1,},
     {"id":{"name":"rm_road","path":"rooms/rm_road/rm_road.yy",},"order":0,},
   ],
   "Options": [
