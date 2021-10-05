@@ -8,9 +8,9 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 6,
-  "bbox_right": 63,
+  "bbox_right": 69,
   "bbox_top": 5,
-  "bbox_bottom": 64,
+  "bbox_bottom": 69,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -27,6 +27,18 @@
     {"compositeImage":{"FrameId":{"name":"51e8f02a-bbf2-409b-8204-89208ada967c","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"51e8f02a-bbf2-409b-8204-89208ada967c","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":{"name":"2761a7a6-db1f-4970-9d1e-95f1f16244c8","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_car_collision_right","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"51e8f02a-bbf2-409b-8204-89208ada967c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"857cc13e-b501-460a-b02b-d7904881387b","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"857cc13e-b501-460a-b02b-d7904881387b","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":{"name":"2761a7a6-db1f-4970-9d1e-95f1f16244c8","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_car_collision_right","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"857cc13e-b501-460a-b02b-d7904881387b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aeeeb690-06bf-4dfc-b1ff-1fcb787b2041","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aeeeb690-06bf-4dfc-b1ff-1fcb787b2041","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":{"name":"2761a7a6-db1f-4970-9d1e-95f1f16244c8","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_car_collision_right","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"aeeeb690-06bf-4dfc-b1ff-1fcb787b2041","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"595a6ece-eb91-4db9-a5bd-97c90f858c73","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"595a6ece-eb91-4db9-a5bd-97c90f858c73","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":{"name":"2761a7a6-db1f-4970-9d1e-95f1f16244c8","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_car_collision_right","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"595a6ece-eb91-4db9-a5bd-97c90f858c73","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fa2c685c-0335-4bdc-a305-b4a06bd89670","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fa2c685c-0335-4bdc-a305-b4a06bd89670","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"LayerId":{"name":"2761a7a6-db1f-4970-9d1e-95f1f16244c8","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_car_collision_right","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","name":"fa2c685c-0335-4bdc-a305-b4a06bd89670","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_car_collision_right","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},
@@ -36,12 +48,16 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 5.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"6c671050-9fed-4452-a68c-a5f21fc62a0e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"51e8f02a-bbf2-409b-8204-89208ada967c","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"155cd488-0c4a-4dad-b92d-0e70d54202b9","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"857cc13e-b501-460a-b02b-d7904881387b","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fd4c330a-99ec-4b23-8194-4b7567a3deba","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aeeeb690-06bf-4dfc-b1ff-1fcb787b2041","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d6bc57b8-f0d0-4563-a1b3-c29e610d8f7c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"595a6ece-eb91-4db9-a5bd-97c90f858c73","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ac6c2b43-315d-4419-aa4d-12601cb90c6e","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa2c685c-0335-4bdc-a305-b4a06bd89670","path":"sprites/spr_car_collision_right/spr_car_collision_right.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
