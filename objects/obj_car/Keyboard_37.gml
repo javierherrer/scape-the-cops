@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Move left
 
 sprite_index = spr_car_left
 

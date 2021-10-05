@@ -1,2 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Move right
+
+// TODO
+//sprite_index = spr_car_right
+
+x += 1

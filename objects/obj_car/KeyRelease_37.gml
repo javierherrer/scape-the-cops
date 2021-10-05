@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Return to moving car
 sprite_index = spr_moving_car
