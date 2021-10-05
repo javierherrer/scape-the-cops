@@ -8,4 +8,4 @@ if (irandom(64) == 1) {
 		obj_others);
 }
 
-sprite_index = spr_moving_car;
+//sprite_index = spr_moving_car;
