@@ -2,7 +2,10 @@
 
 padding = 50
 
-if (x < padding ) x = padding;
+if (x < padding ) {
+	x = padding;
+	sprite_index = spr_car_collision_left;
+}
 
 if (x >= room_width - sprite_width - padding) {
 	x = room_width - sprite_width - padding;
