@@ -3,4 +3,6 @@
 // TODO
 //sprite_index = spr_car_right
 
-x += 1
+x += 2
+
+obj_cops.x += 2
