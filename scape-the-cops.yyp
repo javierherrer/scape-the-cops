@@ -6,6 +6,7 @@
     {"id":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},"order":1,},
     {"id":{"name":"obj_cops","path":"objects/obj_cops/obj_cops.yy",},"order":0,},
     {"id":{"name":"spr_others_hit","path":"sprites/spr_others_hit/spr_others_hit.yy",},"order":5,},
+    {"id":{"name":"spr_car_right","path":"sprites/spr_car_right/spr_car_right.yy",},"order":7,},
     {"id":{"name":"spr_car","path":"sprites/spr_car/spr_car.yy",},"order":3,},
     {"id":{"name":"spr_cops","path":"sprites/spr_cops/spr_cops.yy",},"order":1,},
     {"id":{"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},"order":0,},
@@ -54,7 +55,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "scape-the-cops",

@@ -4,6 +4,8 @@ padding = 50
 
 if (x < padding ) x = padding;
 
-if (bbox_right >= (room_width - padding)) {
+if (x >= room_width - sprite_width - padding) {
 	x = room_width - sprite_width - padding;
 }
+
+obj_cops.x = x

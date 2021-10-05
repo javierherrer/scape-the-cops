@@ -7,5 +7,3 @@ if (irandom(64) == 1) {
 		"Instances",
 		obj_others);
 }
-
-sprite_index = spr_moving_car;
