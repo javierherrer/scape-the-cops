@@ -7,6 +7,6 @@ This is a retro racing game where you control a sports car that tries to scape f
 ## Known Bugs or Issues
 None.
 ## Credits
-* David: TODO
+* David: main car sprite/sequences.
 * Javier: police & others sprite/sequences, title & end screens/tweening, tiles/tilemap.
 * Collaborative: background sprite, events, collisions, room & spatial organization.
