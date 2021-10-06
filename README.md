@@ -1,13 +1,12 @@
-# Project N
-## Game Title
-* STUDENT1NAME (ID1)
-* STUDENT2NAME (ID2)
+# Project 2
+## Scape the cops
+*	David Ortiz Perez (6194333)
+*	Javier Herrer Torres (6193507)
 ## Instructions
-Describe how to play your game.
+This is a retro racing game where you control a sports car that tries to scape from the cops. You should avoid colliding with another car or getting off the road because the cops will get closer and will finally arrest you! 
 ## Known Bugs or Issues
-Describe any known issues with your game.
+None.
 ## Credits
-* STUDENT1NAME: Created hero sprite, animation sequence, title screen, and event
-handling
-* STUDENT2NAME: Created enemy sprite, animation sequence, end screen, and
-enemy AI
+* David: TODO
+* Javier: police & others sprite/sequences, title & end screens/tweening, tiles/tilemap.
+* Collaborative: background sprite, events, collisions, room & spatial organization.
