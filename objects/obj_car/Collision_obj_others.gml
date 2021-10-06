@@ -4,7 +4,7 @@ sprite_index = spr_car_hit;
 alarm[0] = 30;
 
 other.health -= 1;
-obj_cops.y -= 1;
+obj_cops.y -= 2;
 
 other.sprite_index = spr_others_hit;
 if (other.health <= 0) {
