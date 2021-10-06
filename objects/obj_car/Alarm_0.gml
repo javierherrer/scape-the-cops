@@ -1,4 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Sprite moving car
 
 sprite_index = spr_moving_car;
